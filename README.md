@@ -1,11 +1,16 @@
 # Souls
-A simple turn based card auto battler
+A simple turn based card auto battler                      
+Motivated by Inuyasha demon tournament (이누야샤 데몬 토너먼트)             
 
-
-
+    
 ## rule
-
-
+1. Select three scrolls in order of action you want 
+2. Click confirm and wait for opponent to choose
+3. After both players confirmed their scrolls, scroll activation phase begins
+4. Repeat 1~3 until one of the player is down
+                 
+In step 1, you can click 'auto select' button to choose card that the system suggests          
+If you don't want it, click 'reset cards' button and click to choose the order of scrolls again            
 
 ## Installations
 Windows:         
@@ -27,18 +32,22 @@ Then, click the .apk file (with the Unity logo) and select "Install anyway."
 
 
 ## Sample run
-- Main  menu       
-<img src="./sample_run/main.png" width="300" height="300" align="center">  
+- In Game       
+<img src="./sample_run/inGame1.png" width="300" height="300" align="center">  
+<img src="./sample_run/inGame2.png" width="300" height="300" align="center">  
 
+                           
+- Character Selection
+<img src="./sample_run/warrior.png" width="300" height="300" align="center">  
+<img src="./sample_run/samurai.png" width="300" height="300" align="center">  
+<img src="./sample_run/wizard.png" width="300" height="300" align="center">  
+<img src="./sample_run/mercenary.png" width="300" height="300" align="center">  
+<img src="./sample_run/knight.png" width="300" height="300" align="center">  
 
-
-
-
+  
 ## version history
-2025.10.04 ~ 2025.10.20 First draft
-
-
-
+2025.10.04 ~ 2025.10.20 First draft                        
+2025.10.21 ~ 2025.10.24 Minor bug fix & user friendly optimization
 
 
 ## License
