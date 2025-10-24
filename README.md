@@ -33,16 +33,16 @@ Then, click the .apk file (with the Unity logo) and select "Install anyway."
 
 ## Sample run
 - In Game       
-<img src="./sample_run/inGame1.png" width="300" height="300" align="center">  
-<img src="./sample_run/inGame2.png" width="300" height="300" align="center">  
+<img src="./sample_run/inGame1.jpg" height="300" align="center">  
+<img src="./sample_run/inGame2.jpg"  height="300" align="center">  
 
                            
 - Character Selection
-<img src="./sample_run/warrior.png" width="300" height="300" align="center">  
-<img src="./sample_run/samurai.png" width="300" height="300" align="center">  
-<img src="./sample_run/wizard.png" width="300" height="300" align="center">  
-<img src="./sample_run/mercenary.png" width="300" height="300" align="center">  
-<img src="./sample_run/knight.png" width="300" height="300" align="center">  
+<img src="./sample_run/warrior.jpg"  height="300" align="center">  
+<img src="./sample_run/samurai.jpg"  height="300" align="center">  
+<img src="./sample_run/wizard.jpg"  height="300" align="center">  
+<img src="./sample_run/mercenary.jpg"  height="300" align="center">  
+<img src="./sample_run/knight.jpg"  height="300" align="center">  
 
   
 ## version history
