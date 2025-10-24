@@ -36,7 +36,7 @@ Then, click the .apk file (with the Unity logo) and select "Install anyway."
 <img src="./sample_run/cardSelection.jpg"  height="300" align="center">  
 
 - After Selecting the Scrolls         
-<img src="./sample_run/afterSelection.jpg"  height="300" align="center">
+<img src="./sample_run/AfterSelection.jpg"  height="300" align="center">
 
 
 - Scroll activation Phase    
