@@ -34,8 +34,12 @@ Then, click the .apk file (with the Unity logo) and select "Install anyway."
 ## Sample run
 
 - Youtube tutorial link
-                  
+
+English                  
 https://www.youtube.com/watch?v=gS2r5W1lAa0
+                  
+Korean
+https://youtu.be/oHW0zudMw8k
 
 
 - How to create Lobby
