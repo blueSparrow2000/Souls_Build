@@ -32,6 +32,33 @@ Then, click the .apk file (with the Unity logo) and select "Install anyway."
 
 
 ## Sample run
+
+- Youtube tutorial link
+                  
+https://www.youtube.com/watch?v=gS2r5W1lAa0
+
+
+- How to create Lobby
+1. click 'local multiplayer'
+2. click '+' icon on top right corner
+3. click 'create' button on bottom right corner
+
+<img src="./sample_run/create.png"  height="300" align="center">  
+
+<img src="./sample_run/createMenu.png"  height="300" align="center">  
+
+
+- How to join Lobby
+1. click 'refresh' button on top right if lobby does not appear (both players should be in same LAN/wifi)
+2. click the lobby you want to join
+3. After a host clicks start, press the arrow on the bottom right corner 
+                
+
+<img src="./sample_run/join.png"  height="300" align="center">  
+
+
+
+
 - Scroll Selection phase          
 <img src="./sample_run/cardSelection.jpg"  height="300" align="center">  
 
