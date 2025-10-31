@@ -3,7 +3,7 @@ A simple turn based card auto battler
 Motivated by Inuyasha demon tournament (이누야샤 데몬 토너먼트)             
 
     
-## rule
+## Rules
 1. Select three scrolls in order of action you want 
 2. Click confirm and wait for opponent to choose
 3. After both players confirmed their scrolls, scroll activation phase begins
@@ -24,6 +24,7 @@ Download 'Souls_Android_20251022.zip' file and unzip it
 Then, click the .apk file (with the Unity logo) and select "Install anyway."
 
 [한국어]
+
 휴대폰 설정 > 보안 > 보안위험자동차단 끄기               
 보안 > 기타보안설정 > 출처를 알수없는 앱설치 > '내 파일' 을 허용시키기                         
 
@@ -76,11 +77,11 @@ https://youtu.be/oHW0zudMw8k
 
                            
 - Character Selection           
-<img src="./sample_run/warrior.jpg"  height="300" align="center">  
-<img src="./sample_run/samurai.jpg"  height="300" align="center">  
-<img src="./sample_run/wizard.jpg"  height="300" align="center">  
-<img src="./sample_run/mercenary.jpg"  height="300" align="center">  
-<img src="./sample_run/knight.jpg"  height="300" align="center">  
+<img src="./sample_run/warrior.png"  height="300" align="center">  
+<img src="./sample_run/samurai.png"  height="300" align="center">  
+<img src="./sample_run/wizard.png"  height="300" align="center">  
+<img src="./sample_run/mercenary.png"  height="300" align="center">  
+<img src="./sample_run/knight.png"  height="300" align="center">  
 
   
 ## version history
